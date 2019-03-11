@@ -9,6 +9,7 @@ function takeANumber(katzDeli, name) {
   
   function nowServing(katzDeli) {
     
-    let i = 0
+    let i = 0;
+    whilte
     
   }
