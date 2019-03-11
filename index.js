@@ -7,4 +7,4 @@ function takeANumber(katzDeli, name) {
 }
   //defines takeANumber function which adds a new name to end of katzDeli Array(push). returns a string which states their current position in line
   
-  
+  function nowServing()
